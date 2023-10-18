@@ -93,11 +93,11 @@ https://walletwizzz-e48c873597e2.herokuapp.com/homepage
 ***
 ## Contributing
 ***
-Chaz Coats            Email:chazcoats2@hotmail.com
-Christopher Lunsford  Email:christopher.lunsford@uconn.edu
-Danik Therrien        Email:daniktherrien@gmail.com
-Ronald Curcurato      Email:rcurcurato89@gmail.com
-Cheik H Bagagnan      Email:bchamidou@gmail.com
+Chaz Coats       
+Christopher Lunsford 
+Danik Therrien      
+Ronald Curcurato   
+Cheik H Bagagnan      
    
 *** 
 ## Contact
